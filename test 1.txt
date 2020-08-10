@@ -5,5 +5,5 @@ git has a mutable index called stage.
 yes，it is.
 jupy is a good cver!
 i think tobey is also a good guy!
-
 crating a new branch is quick and simple.
+adopt --no-ff to git merge
